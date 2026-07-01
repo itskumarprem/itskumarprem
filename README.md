@@ -100,3 +100,80 @@
 ### Happy Coding 🚀
 
 </div>
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🛒 Retail Sales Prediction | Machine Learning project to predict retail sales using regression models. | Python, Pandas, Scikit-Learn |
+| 🔐 MERN Authentication | Complete Login & Signup System with JWT Authentication. | MongoDB, Express, React, Node.js |
+| 📦 REST API | CRUD API using Express.js & MongoDB. | Express.js, MongoDB |
+| 🌐 Portfolio Website | Personal Portfolio showcasing projects and skills. | React.js |
+
+---
+
+# 💻 Current Focus
+
+```javascript
+const prem = {
+    education: "MCA",
+    role: "Full Stack MERN Developer",
+    learning: [
+        "Advanced MERN",
+        "Java",
+        "Data Structures & Algorithms",
+        "System Design"
+    ],
+    goals: [
+        "Open Source Contributor",
+        "Software Engineer",
+        "Build Scalable Web Apps"
+    ]
+};
+
+console.log("Keep Learning 🚀");
+```
+
+---
+
+# ⚡ Fun Facts
+
+- 🌙 I love coding at night.
+- ☕ Coffee + Code = Productivity
+- 💡 Every day I learn something new.
+- 🚀 My goal is to become a Software Engineer.
+
+---
+
+# 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,cpp,mysql,git,github,vscode,postman"/>
+
+</p>
+
+---
+
+# 📈 Coding Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itskumarprem&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💬 Developer Quote
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
+
+---
+
+<div align="center">
+
+## 🌟 If you like my work, give a ⭐ to my repositories!
+
+</div>
